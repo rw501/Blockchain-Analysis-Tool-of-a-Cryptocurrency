@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>19</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>304</x>
+      <y>228</y>
+      <w>285</w>
+      <h>323</h>
+    </coordinates>
+    <panel_attributes>halign=center
+TX 1
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>323</x>
+      <y>285</y>
+      <w>114</w>
+      <h>114</h>
+    </coordinates>
+    <panel_attributes>halign=center
+Input
+
+1 BTC
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>456</x>
+      <y>418</y>
+      <w>114</w>
+      <h>114</h>
+    </coordinates>
+    <panel_attributes>halign=center
+Output
+
+0.8 BTC</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>456</x>
+      <y>285</y>
+      <w>114</w>
+      <h>114</h>
+    </coordinates>
+    <panel_attributes>halign=center
+Output
+
+0.2 BTC</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>646</x>
+      <y>228</y>
+      <w>285</w>
+      <h>190</h>
+    </coordinates>
+    <panel_attributes>halign=center
+TX 2
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>665</x>
+      <y>285</y>
+      <w>114</w>
+      <h>114</h>
+    </coordinates>
+    <panel_attributes>halign=center
+Input
+
+0.2 BTC
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>798</x>
+      <y>285</y>
+      <w>114</w>
+      <h>114</h>
+    </coordinates>
+    <panel_attributes>halign=center
+Output
+
+0.2 BTC
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>551</x>
+      <y>304</y>
+      <w>152</w>
+      <h>57</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>60.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>551</x>
+      <y>475</y>
+      <w>152</w>
+      <h>57</h>
+    </coordinates>
+    <panel_attributes>lt=-</panel_attributes>
+    <additional_attributes>60.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>665</x>
+      <y>437</y>
+      <w>114</w>
+      <h>114</h>
+    </coordinates>
+    <panel_attributes>halign=center
+UTXO
+
+0.8 BTC</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>190</x>
+      <y>304</y>
+      <w>171</w>
+      <h>57</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>70.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>893</x>
+      <y>323</y>
+      <w>133</w>
+      <h>57</h>
+    </coordinates>
+    <panel_attributes>lt=-</panel_attributes>
+    <additional_attributes>50.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+</diagram>

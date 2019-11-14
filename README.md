@@ -1,2 +1,4 @@
 # Blockchain-Analysis-Tool-of-a-Cryptocurrency
-includes a blockchain parser to mysql
+- PIVX blockchain parser to mysql
+- PiVX address analysis
+- Portable to other Bitcoin based cryptocurrencies
